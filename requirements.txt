@@ -60,4 +60,3 @@ Werkzeug==1.0.1
 wrapt==1.12.1
 yarg==0.1.9
 zipp==3.4.0
-Python==3.7.9
