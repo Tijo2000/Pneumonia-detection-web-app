@@ -5,6 +5,22 @@ gevent==21.1.2
 keras==2.4.3
 Pillow==8.3.1
 gunicorn==20.1.0
-tensorflow
+python-dateutil==2.8.1
+pytz==2020.5
+requests==2.24.0
+requests-oauthlib==1.3.0
+rsa==4.6
+six==1.15.0
+SQLAlchemy==1.3.20
+sqlparse==0.4.1
+sympy==1.8
+tensorboard==2.3.0
+tensorboard-plugin-wit==1.7.0
+tensorflow==2.3.1
+tensorflow-estimator==2.3.0
+termcolor==1.1.0
+urllib3==1.25.11
+virtualenv==20.1.0
+Werkzeug==1.0.1
 
 
